@@ -20,3 +20,11 @@
   button {
     margin: 10px;
   }
+
+  .light h2 {
+    color: #000000;
+  }
+  
+  .dark h2 {
+    color: #ffffff;
+  }
